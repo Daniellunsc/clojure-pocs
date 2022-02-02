@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.amazonaws/aws-java-sdk-xray:1.11.398">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-xray/1.11.398/aws-java-sdk-xray-1.11.398.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
